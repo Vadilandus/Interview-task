@@ -1,11 +1,11 @@
 # Interview-task
 
 По первому заданию:
-Версии 
-.Net 8, 
-Nunit 3.13.1, 
-Microsoft.NET.Test.Sdk 17.11.1,
-NUnit3TestAdapter 4.6.0.
+Версии <br>
+.Net 8, <br>
+Nunit 3.13.1, <br> 
+Microsoft.NET.Test.Sdk 17.11.1, <br>
+NUnit3TestAdapter 4.6.0. <br>
 
 Код был написан мною.<br>
 Формулы какие-то гуглились для ускорения времени написания проекта.<br> 
